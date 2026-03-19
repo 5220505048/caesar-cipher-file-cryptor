@@ -8,7 +8,7 @@ Bu proje, C dili kullanılarak geliştirilmiş, metin dosyaları üzerinde **Sez
 - **Karakter Koruma:** Büyük/küçük harf duyarlılığını korur ve alfabetik olmayan karakterleri (boşluk, nokta vb.) bozmaz.
 
 ## 📸 Uygulama Görüntüsü
-![Uygulama Ekranı]([image_f1b366.png](https://prnt.sc/D0B9GYdXQtjD))
+![Uygulama Ekranı](https://prnt.sc/D0B9GYdXQtjD)
 *Girdi olarak verilen şifreli metnin, belirlenen anahtar ile çözülmüş hali.*
 
 ## 🛠 Teknik Detaylar
